@@ -9,6 +9,7 @@
 
 **See a feature you like. Understand how it works, down to the binary level.**
 
+[![Platform](https://img.shields.io/badge/Platform-MCP-FF1744?style=flat-square)](docs/mcp-contracts.md) [![Code](https://img.shields.io/badge/Code-Node.js-00D6C2?style=flat-square)](#what-you-can-analyze)
 [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)
 [![MCP tool catalog](https://img.shields.io/badge/MCP-tool_catalog-5c4ee5?style=flat-square)](docs/mcp-contracts.md#generated-catalog)
 [![Node.js requirements](https://img.shields.io/badge/Node.js-requirements-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#what-you-can-analyze)
